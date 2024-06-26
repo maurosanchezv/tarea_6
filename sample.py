@@ -6,7 +6,7 @@ def introducir_puntuacion_comentarios():
       point = int(point)
       if  point <= 0 or point > 5:
         print( 'Indíquelo en una escala de 1 a 5' )
-        point = input()
+        point = (point)
       else:
         print( 'Introduzca sus comentarios.' )
         comment = input()

@@ -1,2 +1,0 @@
-punto: 1 comentario: hola 
-punto: 5 comentario: prueba 
